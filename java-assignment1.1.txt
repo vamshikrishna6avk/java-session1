@@ -1,0 +1,2 @@
+    Java is a platform independent because it can run on any operating platforms e.g windows,linux mac etc.
+    Java program can be written once and the program can be run anywhere in any OS .
